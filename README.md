@@ -1,5 +1,6 @@
 # Bilingual Local PDF RAG Q&A Desktop Application
 A professional, bilingual (Chinese/English) desktop application for intelligent PDF document question-answering, built with Retrieval-Augmented Generation (RAG) technology.
+![icon](ui/assets/icon.png)
 
 ---
 
